@@ -52,6 +52,7 @@ import Contacte from "../components/Contacte.vue";
 import Indice from '../components/Indice.vue';
 import ListaProyectos from '../components/ListaProyectos.vue';
 import Gracias from '../components/Gracias.vue';
+import '../layouts/global.css';
 
 
 
@@ -70,5 +71,8 @@ import Gracias from '../components/Gracias.vue';
 </script>
 
 <style lang="scss" scoped>
+*{
+  font-family: Montserrat;
+}
 
 </style>

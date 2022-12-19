@@ -83,6 +83,48 @@ export default {
   index:{
     llista: [
       {
+        titol:'React.',
+        projectes:[
+          {
+            titol:'Trello-Clon.',
+            text:'Aplicación clon de Trello realizado con React Js.',
+            enlace:"https://jbortweb.github.io/trello-clon-jbortweb/",
+            imagen:[
+              'trello.png',
+              'trelloDos.png',
+              'trelloTres.png',
+            ]
+
+          },
+          {
+            titol:'Api-películas.',
+            text:'Aplicación de series y películas realizado con React Js.',
+            enlace:"https://jbortweb.github.io/peliculas_react_jbortweb/",
+            imagen:[
+              'pelis.png',
+              'series.png',
+              'votadas.png'
+            ]
+
+          },
+        ]
+      },
+      {
+        titol:'Vue.',
+        projectes:[
+          {
+            titol:'Portafolio con Vue Js',
+            text:'Portafolio realizado con el Framework de Javascript, Vue Js.',
+            imagen:[
+              'portada.png',
+              'fotoNombre.png',
+              'sobreMi.png',
+            ]
+
+          }
+        ]
+      },
+      {
         titol:'Creacion páginas web.',
         projectes:[
           {
@@ -130,48 +172,6 @@ export default {
 
           },
 
-        ]
-      },
-      {
-        titol:'React.',
-        projectes:[
-          {
-            titol:'Trello-Clon.',
-            text:'Aplicación clon de Trello realizado con React Js.',
-            enlace:"https://jbortweb.github.io/trello-clon-jbortweb/",
-            imagen:[
-              'trello.png',
-              'trelloDos.png',
-              'trelloTres.png',
-            ]
-
-          },
-          {
-            titol:'Api-películas.',
-            text:'Aplicación de series y películas realizado con React Js.',
-            enlace:"https://jbortweb.github.io/peliculas_react_jbortweb/",
-            imagen:[
-              'pelis.png',
-              'series.png',
-              'votadas.png'
-            ]
-
-          },
-        ]
-      },
-      {
-        titol:'Vue.',
-        projectes:[
-          {
-            titol:'Portafolio con Vue Js',
-            text:'Portafolio realizado con el Framework de Javascript, Vue Js.',
-            imagen:[
-              'portada.png',
-              'fotoNombre.png',
-              'sobreMi.png',
-            ]
-
-          }
         ]
       },
     ]

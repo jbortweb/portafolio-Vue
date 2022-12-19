@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-row style="height: 100vh; padding-top: 20vh; padding-left:100px">
+    <v-row style=" padding-top: 20vh; padding-left:100px">
       <v-col>
         <img :src='imagen' alt="imagen">
       </v-col>

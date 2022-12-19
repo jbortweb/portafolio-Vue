@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-row style="height:100vh; padding-top:100px; margin-bottom:100px">
+    <v-row style=" padding-top:100px; margin-bottom:100px">
       <v-col>
       <h1 cols='12' md="8" class="sobreMi">{{informacio.titol}}</h1>
       <p class="descripcio">{{informacio.descripcio}}</p>
