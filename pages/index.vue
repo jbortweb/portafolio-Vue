@@ -31,7 +31,15 @@
     <Lista-proyectos
     v-if="portfoliVue"
     :lista="portfoliVue.index.llista"
-    ></Lista-proyectos>
+    >
+    </Lista-proyectos>
+    <Gracias
+    v-if="portfoliVue"
+    :esquerre="portfoliVue.gracias.esquerra"
+    :dreta="portfoliVue.gracias.dreta"
+    :contacte="portfoliVue.bio.informacioContacte"
+    >
+    </Gracias>
   </div>
 </template>
 
@@ -43,11 +51,12 @@
 import Contacte from "../components/Contacte.vue";
 import Indice from '../components/Indice.vue';
 import ListaProyectos from '../components/ListaProyectos.vue';
+import Gracias from '../components/Gracias.vue';
 
 
 
   export default {
-    components: { Inici, Hola, Contacte, Indice, ListaProyectos },
+    components: { Inici, Hola, Contacte, Indice, ListaProyectos, Gracias, Gracias },
     mounted(){
       this.portfoliVue = portfoli;
     },

@@ -86,15 +86,49 @@ export default {
         titol:'Creacion páginas web.',
         projectes:[
           {
-            titol:'Creacion páginas web.',
-            text:'Creacion de todo tipo de páginas web. Blogs, E-commerce, Landing Page.',
+            titol:'Web personal.',
+            text:'Web personal con mi curriculum, mi experiencia y mi contacto.',
+            enlace:'https://tuwebentrelineas.es/',
             imagen:[
-              'salut.png',
-              'coscu.png',
-              'gestoria.png',
+              'yo.png',
+              'yo1.png',
+              'yo2.png',
             ]
 
-          }
+          },
+          {
+            titol:'Landing Page.',
+            text:'Landing Page sobre unas jornadas digitales en el ámbito de la salud.',
+            enlace:'https://www.salutdigital.cat/',
+            imagen:[
+              'salut.png',
+              'salut1.png',
+              'salut2.png',
+            ]
+
+          },
+          {
+            titol:'Blog',
+            text:'Mi primera web, un blog personal a gusto del cliente',
+            enlace:'https://elblocdelcoscu.cat/',
+            imagen:[
+              'coscu.png',
+              'coscu1.png',
+              'coscu2.png',
+            ]
+
+          },
+          {
+            titol:'Página corporativa.',
+            text:'Página web de empresa para mostrarse al mundo.',
+            enlace:'https://clickgestoria.es/',
+            imagen:[
+              'gestoria.png',
+              'gestoria1.png',
+              'gestoria2.png',
+            ]
+
+          },
 
         ]
       },
@@ -141,5 +175,9 @@ export default {
         ]
       },
     ]
+  },
+  gracias: {
+    esquerra:'Muchas',
+    dreta:'gracias'
   }
 };

@@ -11,7 +11,6 @@
           class="imagen-proyecto"
         >
         </v-img>
-
       </v-col>
     </v-row>
   </div>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-row style="height:100vh">
+    <v-row>
       <v-col>
         <div v-for="(element,indexLista) in lista" :key="indexLista">
           <p class="indice-proyectos">0{{ indexLista+1 }}</p>
@@ -16,7 +16,6 @@
         </div>
       </v-col>
     </v-row>
-
   </div>
 </template>
 
