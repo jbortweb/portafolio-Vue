@@ -9,6 +9,7 @@
           aspect-ratio="2"
           :src="imatge"
           class="imagen-proyecto"
+          alt="foto proyecto"
         >
         </v-img>
       </v-col>
