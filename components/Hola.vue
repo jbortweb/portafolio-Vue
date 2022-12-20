@@ -2,7 +2,7 @@
   <div>
     <v-row style=" padding-top: 20vh; padding-left:100px">
       <v-col>
-        <img :src='imagen' alt="Foto personal">
+        <v-img :src='imagen' alt="Foto personal"></v-img>
       </v-col>
       <v-col class="col-presentacion">
         <span class="presenthola">{{presentHola}}</span>
