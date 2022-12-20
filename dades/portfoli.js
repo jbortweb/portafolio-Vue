@@ -7,7 +7,7 @@ export default {
     ofici: "Desarrollador web",
   },
   hola: {
-    imagen: "/fotomia-recortada.jpg",
+    imagen: "fotomia-recortada.jpg",
     presentHola: "Hola,",
     presentSoy: "soy",
     presentNom: "Jordi Bort.",
