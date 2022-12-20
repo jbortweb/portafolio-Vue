@@ -115,7 +115,7 @@ export default {
           {
             titol:'Portafolio con Vue Js',
             text:'Portafolio realizado con el Framework de Javascript, Vue Js.',
-            enlace:'https://jbortweb.github.io/portafolio-Vue/',
+            enlace:'https://portfolivue.netlify.app/',
             imagen:[
               'portada.png',
               'fotoNombre.png',
