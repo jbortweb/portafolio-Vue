@@ -5,7 +5,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/portafolio-Vue/'
+    base: 'portafolio-Vue'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
