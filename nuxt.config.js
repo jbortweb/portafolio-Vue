@@ -14,13 +14,13 @@ export default {
     },
     meta: [
       { charset: 'utf-8' },
-      {nombre : "imagen", propiedad: "og:imagen", contenido : "fotoNombre.png"},
+      {nombre : "imagen", propiedad: "og:imagen", contenido : "/fotoNombre.png"},
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/fotomia-recortada.jpg' },
       {
         rel: 'stylesheet',
         href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap'
