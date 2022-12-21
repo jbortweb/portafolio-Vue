@@ -30,6 +30,7 @@
     0 0  0 2px rgb(255,255,255),
     0.3em 0.3em 1em rgba(0,0,0,0.3);
     margin-top: 20px;
+    border-radius: 20px;
 }
 a{
   text-decoration: none;
