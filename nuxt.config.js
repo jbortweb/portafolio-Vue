@@ -15,7 +15,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       {name:"image", property:"og:image", content:"/fotoNombre.png"},
-      {name:"description", property:"og:description", content:"Portafolio personal realizado con VueJs, Nuxt y Vuetify"},
+      {name:"description", property:"og:description", content:"Portafolio personal realizado con VueJs, Nuxt y Vuetify, con algunos de mis trabajos y mis datos de contacto"},
       {name:"author", content:"Jbortweb"},
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
