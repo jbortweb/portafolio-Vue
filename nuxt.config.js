@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - portfoli',
+    titleTemplate: '%s - portafolio',
     title: 'portafolio',
     htmlAttrs: {
       lang: 'en'
@@ -15,7 +15,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       {name:"image", property:"og:image", content:"/fotoNombre.png"},
-      {name:"description", property:"og:description", content:"Potafolio personal realizado con VueJs, Nuxt y Vuetify"},
+      {name:"description", property:"og:description", content:"Portafolio personal realizado con VueJs, Nuxt y Vuetify"},
       {name:"author", content:"Jbortweb"},
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
