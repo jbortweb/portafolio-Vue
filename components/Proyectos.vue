@@ -36,7 +36,7 @@ export default {
 a {
   text-decoration: none;
   background-color: #000;
-  color: #fff;
+  color: #fff !important;
   font-weight: 500;
   padding: 5px;
 }
