@@ -38,6 +38,6 @@ a {
   background-color: #000;
   color: #fff !important;
   font-weight: 500;
-  padding: 5px;
+  padding: 10px;
 }
 </style>
